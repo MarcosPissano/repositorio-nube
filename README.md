@@ -1,2 +1,1 @@
-# repositorio-nube
-repositorio ejemplo nube
+cree un repositorio en la nube, lo clone escribiendo git clone y la url https del repositorio que me da git, luego me paro sobre este repo a travez de git basch y luego con code . abro este repo en visual
